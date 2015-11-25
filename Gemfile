@@ -53,3 +53,5 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 gem 'devise', '~> 3.5', '>= 3.5.2'
 gem "paperclip", "~> 4.3"
 gem 'masonry-rails', '~> 0.2.1'
+gem 'acts_as_votable', '~> 0.10.0'
+
